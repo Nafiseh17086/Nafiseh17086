@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Hello there 👋
+
 
 I am Cati and I am walking on the path of a Biomedical enginner in the shoes of a developer while wearing the hat of a developer advocate. You’ll either find me 
 
