@@ -6,7 +6,6 @@ I am Cati and I am walking on the path of a Biomedical enginner in the shoes of 
 
 <!-- fidgeting with prefabs on the Unity 3D game engine to make my little game prototypes functional or zooming in and out on Figma to make a hamburger look pixel perfect. -->
 <!-- If not any of this, you’ll find me wearing the crimson _GitHub Campus Expert_ hoodie and talking about my love for gamification of communities in various conferences and hackathons.  -->
-![Image](https://github.com/user-attachments/assets/1755ca3c-8e00-4dbe-b3b0-0b2afdd6de0a)
 - ♦️♣️❤️♠️ I work as a AI Research Engineer at Northwestern Medicine
 - 📜 I graduated in July 2022 from NOVA University Chicago
 - 🎲 I've worked on the domains of AI  and am always more than eager to talk about the same
